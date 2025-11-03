@@ -1,0 +1,50 @@
+body {
+  background-color: azure;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  font-size: medium;
+}
+
+header {
+  background-color: beige;
+}
+
+nav {
+  background-color: brown;
+}
+
+main {
+  background-color: cadetblue;
+  font-size: large;
+}
+
+footer {
+  background-color: aliceblue;
+}
+
+li {
+  display: inline-block;
+  width: auto;
+}
+
+h1 {
+  color: aquamarine;
+  font-family: "Courier New", Courier, monospace;
+  text-align: center;
+}
+
+h2 {
+  line-height: 0ch;
+  color: wheat;
+  font-style: oblique;
+}
+
+div {
+  float: left;
+  width: 100px;
+  height: 100px;
+  background: blue;
+}
+
+p {
+  line-height: 0cap;
+}
